@@ -1,4 +1,4 @@
-baseurl: https://kazal9229.github.io/Jun_IT/
+#baseurl: https://kazal9229.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
