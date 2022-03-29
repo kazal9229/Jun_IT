@@ -1,4 +1,4 @@
-baseurl: https://kazal9229.github.io/Jun_IT
+baseurl: https://kazal9229.github.io/Jun_IT/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -34,7 +34,7 @@ DefaultContentLanguage: en
 hasCJKLanguage: false
 
 permalinks:
-    post: /p/:slug/
+    post: /:slug/
     page: /:slug/
 
 params:
